@@ -1,0 +1,4 @@
+[20-Mar-2019 09:36:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function url() in D:\xampp728\htdocs\r37m\laravel\room\resources\views\welcome\single.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in D:\xampp728\htdocs\r37m\laravel\room\resources\views\welcome\single.blade.php on line 41

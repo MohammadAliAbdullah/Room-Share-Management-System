@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo - Toast Plugin</title>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/jquery.toast.css">	
+</head>
+<body>
+<button id="btn1">Test</button>
+<script src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.toast.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+		$("#btn1").click(function(){
+		//alert(5);
+				$.toast({
+    heading: 'Information',
+    text: 'Now you can add icons to generate different kinds of toasts',
+    showHideTransition: 'slide',
+    icon: 'info',
+	position:"top-right",
+	hideAfter: 10000
+});
+		});
+
+
+		});
+		</script>
+</body>
+</html>

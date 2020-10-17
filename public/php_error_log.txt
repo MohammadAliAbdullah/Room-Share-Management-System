@@ -1,0 +1,5 @@
+[06-Mar-2019 04:54:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Writer\Controller' not found in D:\xampp728\htdocs\r37m\laravel\room\app\Http\Controllers\Writer\RoomController.php on line 8
+[09-Mar-2019 12:55:54 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in D:\xampp728\htdocs\r37m\laravel\room\vendor\laravel\framework\src\Illuminate\Support\Collection.php on line 1659
+[09-Mar-2019 12:55:54 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in D:\xampp728\htdocs\r37m\laravel\room\vendor\laravel\framework\src\Illuminate\Support\Collection.php on line 1659
+[10-Mar-2019 09:13:39 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in D:\xampp728\htdocs\r37m\laravel\room\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Collection.php on line 473
+[04-Apr-2019 05:14:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Controller' not found in D:\xampp728\htdocs\r37m\laravel\room02042019\app\Http\Controllers\Admin\NotificationController.php on line 8

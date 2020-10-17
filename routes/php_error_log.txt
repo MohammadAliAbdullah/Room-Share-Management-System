@@ -1,0 +1,12 @@
+[07-Mar-2019 11:13:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'Route' not found in D:\xampp728\htdocs\r37m\laravel\room\routes\web.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\xampp728\htdocs\r37m\laravel\room\routes\web.php on line 14
+[07-Mar-2019 11:14:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'Route' not found in D:\xampp728\htdocs\r37m\laravel\room\routes\web.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\xampp728\htdocs\r37m\laravel\room\routes\web.php on line 14
+[24-Mar-2019 09:31:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Class 'Route' not found in D:\xampp728\htdocs\r37m\laravel\room_23_03_2019\routes\web.php:14
+Stack trace:
+#0 {main}
+  thrown in D:\xampp728\htdocs\r37m\laravel\room_23_03_2019\routes\web.php on line 14
